@@ -41,6 +41,7 @@ ReactDOMRe.render(
   <ReducerFromReactJSDocs />,
   makeContainer("Reducer From ReactJS Docs"),
 );
+true;
 
 ReactDOMRe.render(
   <FetchedDogPictures />,
