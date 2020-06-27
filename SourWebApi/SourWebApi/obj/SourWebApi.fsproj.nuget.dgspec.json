@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/souriyakhaosanga/github/my-directory-name/SourWebApi/SourWebApi/SourWebApi.fsproj": {}
+  },
+  "projects": {
+    "/Users/souriyakhaosanga/github/my-directory-name/SourWebApi/SourWebApi/SourWebApi.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/souriyakhaosanga/github/my-directory-name/SourWebApi/SourWebApi/SourWebApi.fsproj",
+        "projectName": "SourWebApi",
+        "projectPath": "/Users/souriyakhaosanga/github/my-directory-name/SourWebApi/SourWebApi/SourWebApi.fsproj",
+        "packagesPath": "/Users/souriyakhaosanga/.nuget/packages/",
+        "outputPath": "/Users/souriyakhaosanga/github/my-directory-name/SourWebApi/SourWebApi/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/souriyakhaosanga/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
